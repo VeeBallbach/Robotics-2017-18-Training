@@ -1,0 +1,7 @@
+Requirements:
+
+ask for other computor's IP
+
+send text to other computor
+
+recieve text from other computor
